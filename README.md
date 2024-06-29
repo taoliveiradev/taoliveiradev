@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 ## Olá, eu sou Thais Oliveira
 
 👩🏻‍💻 Desenvolvedora Web Freelancer<br>👩🏻‍🎓 Estudante de Sistemas para Internet na Estácio<br>
